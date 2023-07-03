@@ -20,7 +20,7 @@ Install this package via pip: `pip install mechanism`.
 
 # Results/Examples
 
-`fourbarlinkage.py`
+[`fourbarlinkage.py`](/examples/fourbarlinkage.py)
 
 ![image not found](https://github.com/gabemorris12/mechanism/raw/master/images/fourbarlinkage.gif)
 
